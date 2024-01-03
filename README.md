@@ -2,5 +2,5 @@
 Hello guys, how are you?
 
 ## Requirements for you developement jounery
-(just typing some random trash)
+{Just typing some random trash}
 
